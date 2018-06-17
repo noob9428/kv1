@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kv1" name="k01" version="0.0.1" provider-name="klr">
+	<extension point="xbmc.addon.repository" name="k01">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/noob9428/repository.kv1/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/noob9428/repository.kv1/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/noob9428/repository.kv1/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">kodi1</summary>
+		<description lang="en">Full repository description.</description>
+		<genre>movies</genre>
+	</extension>
+</addon>
